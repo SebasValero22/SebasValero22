@@ -6,7 +6,8 @@ I am a Multiplatform (DAM) and Web Applications (DAW) developer who treats softw
 I don't just write code; I ship full ecosystems. 
 *   **StudyFlow:** A complete multi-platform architecture. It features a Spring Boot REST API backend, a JavaFX desktop client, a PWA, and a native Android app. (looking to ship on linux 😉)
 *   **NYRA Core v3.0:** An autonomous AI personal assistant. Powered by Python, it integrates Telegram interfaces, Notion databases, Edge-TTS audio, and a custom vector memory RAG architecture.
-*   
+
+  
 ### 💻 The Stack
 *   **Backend & Cloud:** Java, Spring Boot, Python, AWS (EC2, RDS, VPC, S3), Docker, Linux.
 *   **Frontend & Mobile:** JavaScript, HTML/CSS, Android Studio, JavaFX, Next.js.
